@@ -1,6 +1,6 @@
 # **Mentra: AI-Powered Interview Practice Platform**
 
-> 🎓 Presented at the **Back-to-Uni Hackathon 2025**
+> 🎓 **Honourable Mention** at the **Back-to-Uni Hackathon 2025**
 
 **Live Demo:** [https://mentrahackathon.lovable.app/](https://mentrahackathon.lovable.app/)
 
