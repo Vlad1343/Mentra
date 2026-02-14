@@ -55,13 +55,13 @@ The platform provides **realistic, role-specific AI interview simulations** with
 
 | Layer | Technologies |
 |:------|:--------------|
-| **Frontend** | React 18, TypeScript, Vite |
-| **Styling** | Tailwind CSS, shadcn/ui, Framer Motion |
-| **State Management** | Zustand (persistent store) |
-| **Backend / API** | Lovable Cloud (Supabase Edge Functions) |
-| **AI Integration** | OpenRouter API (GPT/Gemini) |
-| **Speech Processing** | Web Speech API (Speech-to-Text & Text-to-Speech) |
-| **Utilities** | zod, date-fns, recharts, lucide-react |
+| Frontend | React, TypeScript, Vite |
+| Styling | Tailwind CSS, shadcn/ui, Framer Motion |
+| State Management | Zustand |
+| Backend & API | Supabase, Edge Functions |
+| AI Integration | OpenRouter (GPT, Gemini) |
+| Speech Processing | Web Speech API |
+| Utilities | Zod, Recharts, Lucide |
 
 ---
 
@@ -99,16 +99,6 @@ The platform provides **realistic, role-specific AI interview simulations** with
 4. **Session Setup** – Configure difficulty, style, and duration  
 5. **Interview Simulation** – Respond via voice or text  
 6. **Feedback Summary** – View AI evaluation and gain XP  
-
----
-
-## 🔮 Future Enhancements
-
-- 📅 **Mock Interview Scheduling** (calendar integration)  
-- 🧑‍🤝‍🧑 **Peer Practice Mode** for collaborative learning  
-- 🧩 **Company-Specific Question Packs** (e.g., Google, Amazon)  
-- 📊 **Advanced Analytics Dashboard** for progress tracking  
-- 📱 **Mobile App** for cross-platform access  
 
 ---
 
